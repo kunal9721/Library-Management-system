@@ -1,2 +1,5 @@
 # Library-Management-system
 The project involved building a library management system database from scratch.
+This required creating an Entity Relational Model and an ER diagram, which was then converted into a Relational schema. The next step was to implement the database using SQL, Neo4j, and MongoDB. Various test cases were conducted on each database to ensure it was working efficiently. The project required a thorough understanding of database design and management, as well as proficiency in using different database management systems.
+
+Building the library management system database required the utilization of skills in database design and management, such as understanding the relationships between different entities, creating an ER diagram, and converting it to a Relational schema. The implementation of the database using SQL, Neo4j, and MongoDB required knowledge of different database management systems and their respective query languages. By conducting various test cases on each database, the project ensured that the system was working efficiently and effectively. The end result was a fully functional and efficient library management system database.
